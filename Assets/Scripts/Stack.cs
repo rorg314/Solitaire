@@ -101,6 +101,7 @@ public class Stack {
         if (stackNum == 0 && isDraw == false && isDeck == false) {
             Card dummyCard = new Card(0);
             
+
             CardsInStack.Add(dummyCard);
         }
         
