@@ -14,4 +14,6 @@ The game is a fully featured replication of the traditional card game Solitaire,
 - Background / card back colour customisation
 - Saving/Loading of game state
 - Undo button (undo fully up to first move) 
+- Time, number of moves UI 
+- Pause menu with customisation and statistics
 - Win screen with classic cascading card animation
