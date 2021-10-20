@@ -23,10 +23,10 @@ The game is a fully featured replication of the traditional card game Solitaire,
 Below are screenshots of the game (resolution is not indicitave of actual quality!)
 
 Gameplay
-![](./Screenshots/SolitareGame.png)
+![](./Screenshots/SolitareGame.PNG)
 
 Menu + Customisation + Statistics
-![](./Screenshots/Menu.png)
+![](./Screenshots/Menu.PNG)
 
 Stats Selection
-![](./Screenshots/StatsSelection.png)
+![](./Screenshots/StatsSelection.PNG)
