@@ -1,6 +1,6 @@
 # Solitaire
 
-This repository contains C# scripts and sprite assets for my Solitare replica. 
+This repository contains C# scripts and sprite assets for my Solitare game. 
 
 # Scripts
 
