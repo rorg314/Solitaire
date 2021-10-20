@@ -17,3 +17,16 @@ The game is a fully featured replication of the traditional card game Solitaire,
 - Time, number of moves UI 
 - Pause menu with customisation and statistics
 - Win screen with classic cascading card animation
+
+# Screenshots
+
+Below are screenshots of the game (resolution is not indicitave of actual quality!)
+
+Gameplay
+![](./Screenshots/SolitareGame.png)
+
+Menu + Customisation + Statistics
+![](./Screenshots/Menu.png)
+
+Stats Selection
+![](./Screenshots/StatsSelection.png)
